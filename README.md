@@ -21,7 +21,7 @@ Clone or for download manual:
 ```bash
 git clone https://github.com/AnonyPy/Python-TRC20-Wallet-Finder
 cd Python-TRC20-Wallet-Finder
-pip install blockton
+pip install blockthon
 ```
 ---
 
