@@ -56,6 +56,8 @@ python3 trc20_finder.py 2>/dev/null
 
 Developer : AnonyPy
 
+Email : imfullstackdev724@gmail.com
+
 Github: [AnonyPy/Python-TRC20-Wallet-Finder](https://github.com/AnonyPy/Python-TRC20-Wallet-Finder)
 
 ---
